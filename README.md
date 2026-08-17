@@ -1,5 +1,5 @@
 ## Oi, sou Maiana 👩🏽
-Sou Analista de Qualidade de Software com foco em testes manuais e exploratórios, organização de cenários de teste e melhoria contínua dos processos. 
+## Sou Analista de Qualidade de Software com foco em testes manuais e exploratórios, organização de cenários de teste e melhoria contínua dos processos. 
 ---
 ## 📚 Sobre mim 
 
