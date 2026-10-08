@@ -1,16 +1,25 @@
-## Oi, sou Maiana 👩🏽
+## Oi, sou Maiana 🔍 🐞 
 ---
-## 📚 Sobre mim 
+## Sobre mim 
+- Sou de salvador e venho trabalhando na área de QA desde 2022. 
+- Visão de testes ponta a ponta (end-to-end) 
+- Conhecimento sólido em testes manuais e exploratórios.
+- Documentação técnica e gestão de testes com Azure DevOps e Jira.
+- Implementadora de reuniões de Bug Review com foco em análise de falhas, logs e observabilidade
 
-- 🎯 Sou de salvador e venho trabalhando na área de QA desde 2022. 
-- 🧩 Visão de testes ponta a ponta (test-end, to-end) 
-- 🔍 Conhecimento sólido em testes manuais e exploratórios.
-- 📈 Documentação técnica e gestão de testes com Azure DevOps e Jira.
-- 🐞 Implementadora de reuniões de Bug Review com foco em análise de falhas, logs e observabilidade
-- 🧰 Ferramentas técnicas: Ferramentas técnicas: SQL Server, MySQL, Postman, Swagger, Cypress.
+  
+## Trajetória Profissional
+
+| Empresa | Cargo | Principal Skill | Período |
+|---|---|---|---|
+| Super Nova | Analista de QA | Testes de IA e Chatbots | 2025 – Atual |
+| Freelancer | Analista de QA | Testes Funcionais e APIs | 2026 – Atual |
+| Prime Control | Auxiliar de QA | Testes Funcionais e Regressivos | 2025 |
+| Instituto Recôncavo de Tecnologia | Estagiária de QA | Testes de API | 2024 |
+| IRDEB | Estagiária de Desenvolvimento e Testes | Desenvolvimento e Testes | 2024 – 2025 |
+| Tecnotrends | Estagiária de QA | Testes Manuais | 2022 – 2024 |
 ---
-## 🛠️ Tecnologias e Ferramentas
-
+## Tecnologias e Ferramentas
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -21,7 +30,7 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ---
-## 🎓 Cursos realizados
+## 🎓 Certificações relacionadas
 🔗 **[Automação com Robot Framework (26h)](https://drive.google.com/file/d/1b0lAMs8blRtaGgkh-ciTiMwD6Fl7Ilfd/view)**  
 🔗 **[Testes e Qualidade de Software (30h)](https://drive.google.com/file/d/1crF_mCB8FSX-IT_2e2IB6ZcHwudf9JyK/view)**  
 🔗 **[Algoritmos e lógica de programação avançado (33h)](https://drive.google.com/file/d/1yxqEaxOrTkkIGx03pMcPSzAX_WPEc0wr/view)**  
@@ -36,7 +45,7 @@
 🔗 **[SQL (2h)](https://drive.google.com/file/d/1rdQkoqdTnhBbSiolMqsgpdqxjR0wU3i7/view)**  
 
 ---
-## 🌐 Onde estou
+## Onde estou
 - 💼 **[LinkedIn](https://www.linkedin.com/in/maianaoliv/)**
 - 📩 **[E-mail](mailto:maiana831@gmail.com)**
   
